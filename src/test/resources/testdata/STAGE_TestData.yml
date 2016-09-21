@@ -1,0 +1,4 @@
+baseURL: "https://mapworks-staging.skyfactor.com/#/login"
+loginPage:
+ validUsername: "qanupur@mailinator.com"
+ validPassword: "Qait@123"
